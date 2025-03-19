@@ -1,10 +1,8 @@
 ![bg](./media/bg.png)
 
 # { Introduction }
-In this project I took a look at 'Twitter posts' dataset from Kaggle. <br>
-The project is in jupyter notebook format (.ipynb) that shows the process of data analysis and building models. <br>
-Main objective of this project is to compare different supervised learning methods to increase performance of AI classifying model.
-
+In this project I took a look at 'Twitter posts' dataset from Kaggle.
+The project is in jupyter notebook format (.ipynb) that shows the process of data analysis and building models.
 
 ### Libraries I've used:
 - ***sklearn*** for machine learning
@@ -44,7 +42,7 @@ It's actual fact that people tend to write longer sentences for negative reviews
 # { Summary }
 
 ### Model comparison
-The white vertical indicates the deviation from the average score, the smaller the line is the more class balanced predictions are.<br>
+The white vertical indicates the deviation from the average score, the smaller the line is the more class balanced predictions are.
 So we can clearly notice that the last model has the highest and most balanced score.
 ![sentence-len](./media/model-comparison.png)
 
