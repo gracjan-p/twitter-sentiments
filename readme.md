@@ -1,6 +1,6 @@
 ![bg](./media/bg.png)
 
-# {Introduction}
+# { Introduction }
 In this project I took a look at 'Twitter posts' dataset from Kaggle. <br>
 The project is in jupyter notebook format (.ipynb) that shows the process of data analysis and building models. <br>
 Main objective of this project is to compare different supervised learning methods to increase performance of AI classifying model.
